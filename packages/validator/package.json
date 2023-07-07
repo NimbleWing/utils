@@ -1,6 +1,6 @@
 {
   "name": "@nwing/validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library of string validators and sanitizers.",
   "author": "NimbleWing<1428116329@qq.com>",
   "homepage": "https://github.com/NimbleWing/utils#readme",
